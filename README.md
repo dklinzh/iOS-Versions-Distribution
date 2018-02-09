@@ -4,10 +4,15 @@ iOS 系统版本分布情况，经统计分析目前iOS 8及以下版本市场�
 
 * ### [App Store](https://developer.apple.com/support/app-store/)
 
-###     ![](https://i.stack.imgur.com/YFgrR.png)    ![](/assets/app_store_20180209.png)
+    ![](https://i.stack.imgur.com/YFgrR.png)    ![](/assets/app_store_20180209.png)
 
 * ### [iOS Version Stats](https://david-smith.org/iosversionstats/)
+
+![](/assets/version_stats_20180209.png)
+
 * ### [Apteligent](https://data.apteligent.com/ios/)
+
+![](/assets/apteligent_20180209.png)
 
 
 
